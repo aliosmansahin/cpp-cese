@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Files">
+      <UniqueIdentifier>{a632e271-ea16-4074-bffd-ee1339ea65cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files\Game">
+      <UniqueIdentifier>{2be8c702-41f8-4c6c-ac5a-deca4d7dedb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files\Graphics">
+      <UniqueIdentifier>{7dafc781-e0de-42de-981d-7a2d8ec6a0f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files\Net">
+      <UniqueIdentifier>{14050e50-8cbd-4f95-833c-bf585cffa64b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files\UI">
+      <UniqueIdentifier>{98c93e30-11f4-40b3-8983-427ffb69eedc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files\Sound">
+      <UniqueIdentifier>{f5f71fb7-f80c-4b9f-9baa-d7286cbd919a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files\Logger">
+      <UniqueIdentifier>{1f6114af-9ae2-4b33-befa-2686a93821fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files\Shader">
+      <UniqueIdentifier>{96837f91-0d5b-40ac-aeb0-8f6b9f4f10e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files\OBJLoader">
+      <UniqueIdentifier>{6d05746a-46f2-4368-b11b-5776d7c5a75b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Files\Mesh">
+      <UniqueIdentifier>{ab535f7e-12e0-4599-aee3-cb3ecef4127d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphics.cpp">
+      <Filter>Files\Graphics</Filter>
+    </ClCompile>
+    <ClCompile Include="Net.cpp">
+      <Filter>Files\Net</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Files\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Files\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="Logger.cpp">
+      <Filter>Files\Logger</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Files\Shader</Filter>
+    </ClCompile>
+    <ClCompile Include="OBJLoader.cpp">
+      <Filter>Files\OBJLoader</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>Files\Mesh</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game.h">
+      <Filter>Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphics.h">
+      <Filter>Files\Graphics</Filter>
+    </ClInclude>
+    <ClInclude Include="Net.h">
+      <Filter>Files\Net</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Files\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Files\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="Logger.h">
+      <Filter>Files\Logger</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Files\Shader</Filter>
+    </ClInclude>
+    <ClInclude Include="OBJLoader.h">
+      <Filter>Files\OBJLoader</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>Files\Mesh</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
