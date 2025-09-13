@@ -19,6 +19,7 @@ A multiplayer deathmatch game I started developing a game in 2022 and spent one 
 ## Built With
 * C++
 * DirectX 9
+* [nlohmann_json][nlohmann-json-url]
 
 ## Installation
 1- Install DirectX SDK from Microsoft
@@ -43,4 +44,4 @@ git clone https://github.com/aliosmansahin/cpp-cese.git
 [server-folder-url]: https://github.com/aliosmansahin/cpp-cese/tree/bcab67358a5f3a1c342d77c3303e20d70d4d0a00/Server
 [run-start-server-url]: https://github.com/aliosmansahin/cpp-cese/blob/bcab67358a5f3a1c342d77c3303e20d70d4d0a00/Server/Sunucuyu%20Baslat.bat
 [server-file-url]: https://github.com/aliosmansahin/cpp-cese/blob/bcab67358a5f3a1c342d77c3303e20d70d4d0a00/Server/CESE%20Server.py
-
+[nlohmann-json-url]: https://github.com/nlohmann/json
