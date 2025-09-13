@@ -27,7 +27,7 @@ A multiplayer deathmatch game I started developing a game in 2022 and spent one 
 ```sh
 git clone https://github.com/aliosmansahin/cpp-cese.git
 ```
-3- Start editing it
+3- Built it
 
 ## Starting Local Server
 1- Locate folder <br>
