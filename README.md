@@ -1,5 +1,5 @@
 # CESE
-A multiplayer deathmatch game I started developing a game in 2022 and spent one whole year working on it
+A multiplayer deathmatch game I started developing a game in 2023 and spent one whole year working on it
 
 ## Features
 * Singleplayer walking around in the map
